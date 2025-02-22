@@ -1,6 +1,6 @@
 # Hi, I'm Enrico Battistini! 😃
 
-I'm currently pursuing a Master’s in **Automation Engineering** at the University of Bologna. I have a passion for combining theoretical knowledge with practical applications, always striving to learn more and experiment with the latest technologies.
+I'm currently pursuing a Master’s in **Automation Engineering** at the University of Bologna. I have a passion for combining theoretical knowledge with practical applications.
 
 ## My Interests
 - 🤖 **Robotics** , **Computer Vision** and **Artificial Intelligence** 
